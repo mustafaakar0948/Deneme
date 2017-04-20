@@ -1,0 +1,14 @@
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Kayıt_ol_sayfasi.resources
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\MySql.Data.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\MySql.Data.xml
+C:\Users\Asus-Pc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Sifremi_Unuttum_Sayfasi.resources
+C:\Users\Asus-Pc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Goruntulere_Ulasma_Sayfasi.resources
+C:\Users\Asus-Pc\Documents\Visual Studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Giris_Sayfasi.resources
